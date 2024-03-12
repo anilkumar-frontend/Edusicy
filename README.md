@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # Edusity-ed
 # Edusity-ed
 # Edusity-ed
+# Edusicy
