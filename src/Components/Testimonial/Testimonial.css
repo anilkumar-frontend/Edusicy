@@ -79,11 +79,11 @@
         right: 30%;
     }
     .testimonials{
-        padding: 10px;
         margin-bottom: 100px;
     }
     .slider ul{
         width: 400%;
     }
-    
-}
+    .slide{
+        padding: 10px;    
+    }
